@@ -43,7 +43,7 @@ public class exec1 {
 		
 		
 		selct.productType();
-		
+		//completed
 		
 		
 		
