@@ -32,7 +32,7 @@ public class exec1 {
 		
 	
 		selct.productType();
-		System.out.println("done");
+		System.out.println("donee");
 		
 		
 		
