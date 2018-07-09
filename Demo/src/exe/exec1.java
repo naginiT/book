@@ -22,7 +22,7 @@ public class exec1 {
 		DOMConfigurator.configure("log4j.xml");
 		BaseClass.OpenBrowser();
 		excelutility.setExcelFile("C://Users//NSSS KKISHORE//Desktop//Book1.xlsx", "Sheet1");
-		System.out.println("hi");
+		System.out.println("hiiiiii");
 		
 	}
 	
