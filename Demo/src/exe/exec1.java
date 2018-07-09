@@ -23,7 +23,7 @@ public class exec1 {
 		BaseClass.OpenBrowser();
 		excelutility.setExcelFile("C://Users//NSSS KKISHORE//Desktop//Book1.xlsx", "Sheet1");
 		System.out.println("hello");
-		System.out.println("hiiiio");
+		System.out.println("hiiii");
 		
 		
 	}
